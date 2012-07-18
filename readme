@@ -1,0 +1,23 @@
+This is the program to get latest tweets in last 7 days.
+
+Install the following gems by running this instruction from your terminal. 
+
+gem install twitter
+
+gem install jumpstart_auth
+
+to run this program
+
+Invoke irb (Interactive Ruby or irb is an interactive programming environment that comes with Ruby.),type irb in the terminal.
+
+run following commands
+
+load './jstwitter.rb'
+
+gs twitter_handle
+
+for ex. gs mailtorupalik
+
+Output : all the tweets in last 7 days from today's date.
+
+press q to exit.
